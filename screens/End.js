@@ -253,7 +253,7 @@ const styles = StyleSheet.create({
     position: "absolute",
   },
   end: {
-    borderRadius: Border.br_41xl,
+    
     backgroundColor: Color.colorGray_100,
     flex: 1,
     width: "100%",

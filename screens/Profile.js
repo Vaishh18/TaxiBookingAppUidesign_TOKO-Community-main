@@ -334,7 +334,7 @@ const styles = StyleSheet.create({
     overflow: "hidden",
   },
   profile: {
-    borderRadius: Border.br_41xl,
+   
     backgroundColor: Color.colorGray_100,
     flex: 1,
     height: 932,

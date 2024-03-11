@@ -155,7 +155,7 @@ const styles = StyleSheet.create({
     overflow: "hidden",
   },
   page2: {
-    borderRadius: Border.br_41xl,
+    
     backgroundColor: Color.colorGray_100,
     flex: 1,
     width: "100%",

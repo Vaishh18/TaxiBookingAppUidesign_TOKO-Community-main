@@ -24,7 +24,7 @@ const LandingPage = () => {
 
 const styles = StyleSheet.create({
   taxo: {
-    top: 406,
+    top: 350,
     left: 122,
     fontSize: 80,
     fontWeight: "700",
@@ -34,14 +34,15 @@ const styles = StyleSheet.create({
     position: "absolute",
   },
   landingPageChild: {
-    top: 427,
-    left: 300,
+    top: 360,
+    left: 278,
     width: 20,
     height: 20,
-    position: "absolute",
+    borderRadius:100,
+    position: "absolute"
   },
   landingPage: {
-    borderRadius: Border.br_41xl,
+    
     backgroundColor: Color.colorDarkslategray_100,
     flex: 1,
     width: "100%",

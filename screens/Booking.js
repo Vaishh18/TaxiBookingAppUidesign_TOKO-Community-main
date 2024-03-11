@@ -344,7 +344,7 @@ const styles = StyleSheet.create({
     position: "absolute",
   },
   booking: {
-    borderRadius: Border.br_41xl,
+   
     flex: 1,
     width: "100%",
     height: 932,
