@@ -37,7 +37,7 @@ const Booking = () => {
         source={require("../assets/line-7.png")}
       />
       <View style={styles.pricesWrapper}>
-        <Text style={styles.pricesTypo}>Prices</Text>
+        <Text style={styles.pricesTypo}>Price</Text>
       </View>
       <View style={[styles.rectangleView, styles.bookingItemPosition]} />
       <View style={[styles.bookingChild1, styles.bookingChildShadowBox]} />
