@@ -444,7 +444,7 @@ const styles = StyleSheet.create({
     flex: 1,
     height: 932,
     width: "100%",
-    borderRadius: Border.br_41xl,
+   
   },
 });
 
